@@ -24,6 +24,9 @@ project "ImGui"
 	filter "system:windows"
 		systemversion "latest"
 
+	filter "system:linux"
+		toolset "gcc"
+
 	filter "configurations:Debug"
 			runtime "Debug"
 			symbols "on"

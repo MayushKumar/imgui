@@ -52,3 +52,8 @@ bin/
 bin-int/
 
 ImGui.vcxproj
+bin/
+bin-int/
+
+ImGui.vcxproj
+Makefile

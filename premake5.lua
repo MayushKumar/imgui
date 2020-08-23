@@ -23,7 +23,7 @@ project "ImGui"
 
 	filter "system:windows"
 		systemversion "latest"
-
+	
 	filter "system:linux"
 		toolset "gcc"
 
